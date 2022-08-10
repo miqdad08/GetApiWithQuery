@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
+        git add .
 
 
     }
